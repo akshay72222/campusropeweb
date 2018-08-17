@@ -1,7 +1,5 @@
-# campusropeserver
-Backend node.js server for campusrope with MongoDb as Database
-
-
+# campusropeweb 
+Frontend react/redux app for campusrope
 ---
 
 ## Brief: This project comes with its limitless potential being open source licenced under GNU GPL v3 and being endorsed by an extremely passionate team working on it, who loves what they do.   
